@@ -1,0 +1,3 @@
+C:\Users\Brett\source\repos\EmailGroupies\EGMailWebClient\obj\Debug\EGMailWebClient.njsprojAssemblyReference.cache
+C:\Users\Brett\source\repos\EmailGroupies\EGMailWebClient\obj\Debug\EGMailWebClient.njsproj.CoreCompileInputs.cache
+C:\Users\Brett\source\repos\EmailGroupies\EGMailWebClient\bin\Microsoft.NodejsTools.WebRole.dll
